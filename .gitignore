@@ -133,6 +133,11 @@ appsettings.*.local.json
 appsettings.Local.json
 secrets.json
 
+# App settings (contain connection strings / credentials)
+appsettings.json
+appsettings.Development.json
+appsettings.Staging.json
+
 # ---------------------------------------------------------------------------
 # OS files
 # ---------------------------------------------------------------------------
